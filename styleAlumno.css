@@ -7,3 +7,9 @@ h1{
 img{
     border-radius: 30%;
 }
+ul{
+    color: yellow;
+}
+li:hover{
+    background-color: orange;
+}
