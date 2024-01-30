@@ -4,3 +4,6 @@ body{
 h1{
     color: yellow;
 }
+img{
+    border-radius: 30%;
+}
